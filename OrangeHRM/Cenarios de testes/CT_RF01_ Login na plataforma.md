@@ -48,6 +48,8 @@
 | :-------------------------------------------------------------- |
 | A mensagem de erro \"Invalid credentials\" deve ser exibida.    |
 
+[VIDEO](https://jam.dev/c/59046d09-8e21-49f3-a3f2-dcac6da08d11)
+
 ---
 
 ### Caso de Teste 03: Tentativa de login com campos em branco.
