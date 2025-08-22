@@ -72,3 +72,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem exibir mensagens de validação.     |
+
+[VIDEO](https://jam.dev/c/1049a993-f62f-4b20-b152-ccd9eb15bff7)
