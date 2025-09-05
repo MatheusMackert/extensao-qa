@@ -50,6 +50,8 @@
 | :-------------------------------------------------------------- |
 | A aplicação deve ser bloqueada e o erro deve ser exibido ao usuário. |
 
+[VIDEO](https://jam.dev/c/1ca02122-6981-480d-8925-aa1f002b197e)
+
 ---
 
 ### Caso de Teste 03: Visualizar status das solicitações de férias.
