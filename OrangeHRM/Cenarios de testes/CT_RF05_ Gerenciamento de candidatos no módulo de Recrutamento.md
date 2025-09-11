@@ -22,6 +22,8 @@
 | :-------------------------------------------------------------- |
 | O candidato deve ser exibido corretamente na lista após o cadastro. |
 
+[VIDEO](https://jam.dev/c/00ff9e9a-5d6e-462a-87ab-a7881e849a4f)
+
 ---
 
 ### Caso de Teste 02: Tentar adicionar candidato sem preencher campos obrigatórios.
